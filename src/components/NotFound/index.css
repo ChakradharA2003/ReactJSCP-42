@@ -1,0 +1,30 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.light-content {
+  color: #1e293b;
+  font-family: 'Roboto';
+}
+.dark-content {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.light-notfound-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.dark-notfound-container {
+  background-color: #000000;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 250px;
+  width: 250px;
+}
